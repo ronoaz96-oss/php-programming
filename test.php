@@ -20,7 +20,7 @@ echo "
     
     padding-top:30px;
     padding-left: 60px;
-    padding-right: 60px;
+    padding-right: 60px; 
     height:300px;
     color:white;
     text-align:center;
