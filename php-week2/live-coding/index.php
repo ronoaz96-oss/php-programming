@@ -7,4 +7,4 @@ echo "<div style='weight:1440px; justify:display: flex; justify-content: center;
 
      </div>";
 
-?>
+?>      
